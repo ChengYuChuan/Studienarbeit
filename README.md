@@ -1,10 +1,9 @@
 # Studienarbeit
- <img src="https://www.tu-braunschweig.de/typo3conf/ext/tu_braunschweig/Resources/Public/Images/Logos/tu_braunschweig_logo.svg" align="right" width="200px"/>
+ <img src="[https://www.tu-braunschweig.de/typo3conf/ext/tu_braunschweig/Resources/Public/Images/Logos/tu_braunschweig_logo.svg](https://www.zuv.uni-heidelberg.de/md/zentral/einrichtungen/rektorat/kum/corporatedesign/intern/hd_logo_standard_16cm_rgb.png)" align="right" width="200px"/>
 
 [Institut für Nachrichtentechnik](https://www.tu-braunschweig.de/ifn),  
-[Technical University of Braunschweig  ](https://www.tu-braunschweig.de/en/)  
-Instructors: [Jasmin Breitenstein, M.Sc.](https://www.tu-braunschweig.de/ifn/institut/team/sv/breitenstein) and [Prof. Dr.-Ing. Tim Fingscheidt](https://www.tu-braunschweig.de/ifn/institut/abt/sv/prof-dr-ing-tim-fingscheidt)
-<br clear="left"/>
+[University of Heidelberg](https://www.uni-heidelberg.de/en)  
+Instructors: [Julius Steen, M.Sc.](https://www.cl.uni-heidelberg.de/~steen/)
 
 **This public repository is for CV reference.**
 
