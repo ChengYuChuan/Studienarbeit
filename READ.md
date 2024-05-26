@@ -1,4 +1,4 @@
-# Deep Learning Course 
+# Studienarbeit
  <img src="https://www.tu-braunschweig.de/typo3conf/ext/tu_braunschweig/Resources/Public/Images/Logos/tu_braunschweig_logo.svg" align="right" width="200px"/>
 
 [Institut für Nachrichtentechnik](https://www.tu-braunschweig.de/ifn),  
